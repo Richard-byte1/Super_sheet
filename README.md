@@ -107,6 +107,7 @@ Greeks can be used for options strategies discussed later.
 Please note (I do not include Rho).
 
 ## Placing_Option
+The spreadsheet is useful for simple option strategies such as synthetic long/short forward, covered calls, and protective puts. More advanced strategies such as collars, straddles, bull and bear spreads, and calendar spreads are best executed using TWS.
 
 Place the ticker, sec type (usually STK for "stock"), exchange (SMART), and currency.
 Run the code to make sure you are working on the correct stock.
