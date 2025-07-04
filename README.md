@@ -8,7 +8,7 @@
 - [Funda](#Funda)
 - [DCF](#DCF)
 - [Portfolio and Stocks](#Portfolio_and_Stocks)
-- [MC_Stock_Returns](#MC Stock Returns)
+- [MC_Stock_Returns](#MC_Stock_Returns)
 - [Connecting with Interactive Brokers](#Connecting_with_Interactive_Brokers)
 - [BSM](#BSM)
 - [Placing_Option](#Placing_Option)
@@ -49,7 +49,7 @@ You can add other risk premiums if needed.
 
 Please use the Revenue Step tab to better forecast your own estimates of future revenue.
 
-## Portfolio and Stocks
+## Portfolio_and_Stocks
 
 To begin, add the stocks you bought under the stock column, along with the number of shares and the purchase price.
 
