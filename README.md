@@ -8,7 +8,7 @@
 - [Funda](#Funda)
 - [DCF](#DCF)
 - [Portfolio and Stocks](#Portfolio_and_Stocks)
-- [MC_Stock_Returns](#MC_Stock_Returns)
+- [MC_Stock_Returns](#MC Stock Returns)
 - [Connecting with Interactive Brokers](#Connecting_with_Interactive_Brokers)
 - [BSM](#BSM)
 - [Placing_Option](#Placing_Option)
