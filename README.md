@@ -95,6 +95,8 @@ https://interactivebrokers.github.io/tws-api/options.html
 
 Options data requires a paid market subscription for personal use (15 USD per month).
 
+TWS must be running in the backround
+
 ## BSM
 In this tab, the inputs are the ticker, strike price, call or put, and risk-free rate. Running the code will allow you to see the Greeks and implied leverage for the option.
 
