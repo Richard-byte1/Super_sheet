@@ -17,7 +17,7 @@
 - [Acknowledgments](#Ackowledgments)
 - 
   ## Funda
-  Using the Excel workbook and the "Final data" tab, you will be able to use the Fundamentals tab. This code uses "Alpha Vantage" to pull financial statements; you can get a free API key with an email address.
+  Using the Excel workbook and the Final data" script, you will be able to use the Fundamentals tab. This code uses "Alpha Vantage" to pull financial statements; you can get a free API key with an email address.
   
 <img width="530" alt="image" src="https://github.com/user-attachments/assets/28b7e5d3-9c1f-44ef-8063-a721ea9459c2" />
 
