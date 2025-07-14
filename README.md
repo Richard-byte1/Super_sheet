@@ -140,9 +140,10 @@ In the top left, enter the ticker, strike, expiry date, and option type, then ru
 
 <img width="297" height="231" alt="image" src="https://github.com/user-attachments/assets/a94d9a3f-37eb-4f9c-8637-62920cce8bee" />
 
-<img width="1145" height="623" alt="image" src="https://github.com/user-attachments/assets/49345d51-712f-4e84-a797-d4bd06bb1de7" />
+<img width="1463" height="703" alt="image" src="https://github.com/user-attachments/assets/ea3cf59a-4fbd-4b2c-94fe-538358f0be7c" />
 
-<img width="1131" height="686" alt="image" src="https://github.com/user-attachments/assets/f6e09548-010c-477c-8e4a-13749f5f69d8" />
+<img width="1151" height="706" alt="image" src="https://github.com/user-attachments/assets/2c252a55-8729-4946-83d7-a006e18f32a3" />
+
 
 In the Opt_strat sheet, fill in the inputs in the top left to get the Greeks.
 
