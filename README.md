@@ -183,6 +183,9 @@ In this tab, you can place an order to buy or sell stock along with a stop-loss 
 
 <img width="211" alt="image" src="https://github.com/user-attachments/assets/129da103-1101-4381-87f8-a4eea5c9e8b5" />
 
+## TWAP
+The TWAP code doesn't connect with Excel, but must run in Terminal, inputs are at the top of the script, and it's the perfect way to average into and out of positions
+
 ## Author and Contact
 
 Richard A. For questions or support, open an issue or contact [Richard-byte1](https://github.com/Richard-byte1).
