@@ -11,6 +11,7 @@
 - [Options (Order Book, Payoffs, and Strategies)](#Options (Order Book, Payoffs, and Strategies))
 - [Placing Option](#placing-option)
 - [Placing Stock](#placing-stock)
+- [Marketsnapshot](#Marketsnapshot)
 - [Author and Contact](#author-and-contact)
 - [Acknowledgments](#acknowledgments)
 
@@ -185,6 +186,19 @@ In this tab, you can place an order to buy or sell stock along with a stop-loss 
 
 ## TWAP
 The TWAP code doesn't connect with Excel, but must run in Terminal, inputs are at the top of the script, and it's the perfect way to average into and out of positions
+
+## MarketSnapshot
+
+Please note that you will need a FRED API, and a free TIKR account, you cant set it up to run locally at 9:00am (or any time). Sources are included.
+
+<img width="1394" height="555" alt="image" src="https://github.com/user-attachments/assets/0e3369ad-35ad-46f2-aa95-e223dcae6a1b" />
+
+<img width="763" height="437" alt="image" src="https://github.com/user-attachments/assets/28abea9e-38f1-4914-b181-4d9c7dd0b656" />
+
+<img width="966" height="361" alt="image" src="https://github.com/user-attachments/assets/794be1fc-cf63-41ed-9368-b57e3b2e1dc8" />
+
+
+
 
 ## Author and Contact
 
