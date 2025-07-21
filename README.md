@@ -8,10 +8,10 @@
 - [Portfolio and Stocks](#portfolio-and-stocks)
 - [MC_Stock_Returns](#mc_stock_returns)
 - [Connecting with Interactive Brokers](#connecting-with-interactive-brokers)
-- [Options (Order Book, Payoffs, and Strategies)](#Options (Order Book, Payoffs, and Strategies))
+- [Options (Order Book, Payoffs, and Strategies)](#options-order-book-payoffs-and-strategies)
 - [Placing Option](#placing-option)
 - [Placing Stock](#placing-stock)
-- [Marketsnapshot](#Marketsnapshot)
+- [MarketSnapshot](#marketsnapshot)
 - [Author and Contact](#author-and-contact)
 - [Acknowledgments](#acknowledgments)
 
