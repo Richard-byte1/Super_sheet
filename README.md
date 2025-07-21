@@ -197,6 +197,9 @@ Please note that you will need a FRED API, and a free TIKR account, you cant set
 
 <img width="966" height="361" alt="image" src="https://github.com/user-attachments/assets/794be1fc-cf63-41ed-9368-b57e3b2e1dc8" />
 
+<img width="504" height="467" alt="image" src="https://github.com/user-attachments/assets/e49a8b05-4d2c-4c14-83be-9e1163297895" />
+
+
 
 
 
