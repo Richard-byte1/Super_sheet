@@ -12,8 +12,11 @@
 - [Placing Option](#placing-option)
 - [Placing Stock](#placing-stock)
 - [MarketSnapshot](#marketsnapshot)
+- [ML](#ML)
+- [ARIMA AND SARIMA](#ARIMA-AND-SARIMA)
 - [Author and Contact](#author-and-contact)
 - [Acknowledgments](#acknowledgments)
+
 
 ## Funda
 
@@ -198,6 +201,45 @@ Please note that you will need a FRED API, and a free TIKR account, you cant set
 <img width="966" height="361" alt="image" src="https://github.com/user-attachments/assets/794be1fc-cf63-41ed-9368-b57e3b2e1dc8" />
 
 <img width="504" height="467" alt="image" src="https://github.com/user-attachments/assets/e49a8b05-4d2c-4c14-83be-9e1163297895" />
+
+## ML
+The objective of this code is to assist in the timing of purchases and sizing of purchases when buying a stock. It uses dollar bars (which offer better sensitivity to volume, market events, and are better suited for machine learning). Adjust the inputs to observe the frequency and opportunistic buying and sizing opportunities.
+
+<img width="1516" height="381" alt="image" src="https://github.com/user-attachments/assets/c1c364be-07e1-4fa9-ab8d-e2ad5c69d8f7" />
+
+Use the random walk feature to see how it would perform one year into the future with a random sample. Run it multiple times and adjust the strategy if needed.
+
+<img width="1391" height="631" alt="image" src="https://github.com/user-attachments/assets/11b89587-85f7-4a67-8145-59e7abb76c47" />
+
+Run feature selection to view the most important features.
+
+<img width="1501" height="880" alt="image" src="https://github.com/user-attachments/assets/663a88b2-39ec-4642-b246-c6bff49436f0" />
+
+In the model training, select the features and run the code. It will select the model with the best Sharpe ratio.
+
+<img width="1515" height="841" alt="image" src="https://github.com/user-attachments/assets/18208182-fa5a-4a06-94c4-0e650c021261" />
+
+Backtest the model and analyze the results.
+
+<img width="1510" height="792" alt="image" src="https://github.com/user-attachments/assets/b6b2dd71-d0eb-41ad-a5ed-d06eb00ba1b0" />
+
+Run the production pipeline and the code will provide you with the most recent technical indicators and suggestions.
+
+<img width="582" height="476" alt="image" src="https://github.com/user-attachments/assets/6f8f66cd-d9bd-495b-800d-77c3b98d3564" />
+
+## ARIMA and SARIMA
+Connects to the Excel worksheet.
+To be used as an assistant in projecting future annual revenues and quarterly revenue. Automatically finds the best combination of (p, d, q). Adjust inputs as needed.
+
+<img width="1479" height="788" alt="image" src="https://github.com/user-attachments/assets/e7723d23-b733-49b4-9b47-de04b43a373d" />
+
+<img width="1485" height="911" alt="image" src="https://github.com/user-attachments/assets/f5dbc63a-cf23-456d-ac8c-d196f30f2453" />
+
+<img width="1452" height="571" alt="image" src="https://github.com/user-attachments/assets/80532060-7d29-4d47-9933-584920affc82" />
+
+<img width="1430" height="704" alt="image" src="https://github.com/user-attachments/assets/e18d8742-5ba7-4f64-a42c-604a549208ee" />
+
+<img width="1489" height="665" alt="image" src="https://github.com/user-attachments/assets/0c48aa9d-cf8c-4d5b-8024-b81679ac6119" />
 
 
 
