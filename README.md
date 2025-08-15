@@ -241,6 +241,17 @@ To be used as an assistant in projecting future annual revenues and quarterly re
 
 <img width="1489" height="665" alt="image" src="https://github.com/user-attachments/assets/0c48aa9d-cf8c-4d5b-8024-b81679ac6119" />
 
+## MC CRE
+<img width="1507" height="491" alt="image" src="https://github.com/user-attachments/assets/3eabeb69-f63e-4508-a4b1-2a665549b964" />
+
+<img width="1205" height="603" alt="image" src="https://github.com/user-attachments/assets/aa6eae29-804a-4ceb-a3ee-132c1fc94335" />
+
+<img width="1595" height="743" alt="image" src="https://github.com/user-attachments/assets/005b7fc1-7898-447d-ad3f-446ecb4b9368" />
+
+<img width="1910" height="417" alt="image" src="https://github.com/user-attachments/assets/dae58674-5877-4c3b-b974-94ff1af610b7" />
+
+<img width="1919" height="638" alt="image" src="https://github.com/user-attachments/assets/2cc75a50-019b-443d-85e2-09165decd7bc" />
+
 
 
 
